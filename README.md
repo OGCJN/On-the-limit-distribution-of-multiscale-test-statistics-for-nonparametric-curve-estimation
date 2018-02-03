@@ -1,4 +1,4 @@
-# On the Limit Distribution of Multiscale Test Statistics for Nonparametric Curve Estimation
+# On the limit distribution of multiscale test statistics for nonparametric curve estimation
 
 ## Abstract
 We prove continuity of the limit distribution function of certain multiscale test statistics which are used in nonparametric curve estimation.
